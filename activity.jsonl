@@ -102,3 +102,4 @@
 {"timestamp": "2026-10-26T17:17:52+08:00", "action": "update", "note_id": "2032bef2e6364023ab408f25c2916a91", "title": "particles_2d", "details": {}}
 {"timestamp": "2026-10-26T17:18:02+08:00", "action": "update", "note_id": "2032bef2e6364023ab408f25c2916a91", "title": "particles_2d", "details": {}}
 {"timestamp": "2026-10-26T17:19:53+08:00", "action": "commit", "note_id": null, "title": null, "details": {"message": "更新笔记"}}
+{"timestamp": "2026-10-26T17:19:59+08:00", "action": "sync", "note_id": null, "title": null, "details": {"message": "更新笔记"}}
